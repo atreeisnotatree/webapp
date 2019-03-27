@@ -1,4 +1,4 @@
-package com.setHealthAndtFitness.algorithms;
+package com.springMVCWebApp.algorithms;
 
 import java.math.BigInteger;
 import java.util.regex.Matcher;

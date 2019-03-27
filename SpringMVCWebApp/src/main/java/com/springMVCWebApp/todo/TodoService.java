@@ -1,4 +1,4 @@
-package com.setHealthAndtFitness.todo;
+package com.springMVCWebApp.todo;
 
 	import java.util.ArrayList;
 	import java.util.Date;

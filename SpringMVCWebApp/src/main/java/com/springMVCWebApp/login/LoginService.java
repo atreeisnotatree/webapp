@@ -1,4 +1,4 @@
-package com.setHealthAndtFitness.login;
+package com.springMVCWebApp.login;
 
 import org.springframework.stereotype.Service;
 

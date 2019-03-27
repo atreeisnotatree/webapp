@@ -1,4 +1,4 @@
-package com.setHealthAndtFitness.algorithms;
+package com.springMVCWebApp.algorithms;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
